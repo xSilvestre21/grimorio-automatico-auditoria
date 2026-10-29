@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Espaço no meio das runas.
+# Motivo(s) esperado(s): RUNA_FORA_DO_ALFABETO
+Decreto: FOR-5007
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+aa bc

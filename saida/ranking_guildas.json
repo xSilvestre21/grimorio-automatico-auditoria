@@ -1,0 +1,128 @@
+{
+  "titulo": "Ranking de guildas com mais tentativas de fraude",
+  "emissor": "Ordem dos Arquivistas e Mestres do Saber - Reino de Aethelgard",
+  "gerado_em": "2026-10-29T15:23:31",
+  "total_pergaminhos": 48,
+  "total_fraudes": 36,
+  "ranking": [
+    {
+      "posicao": 1,
+      "guilda": "FOR",
+      "nome": "Guilda dos Forjadores",
+      "fraudes": 13,
+      "autenticos": 2,
+      "total": 15,
+      "taxa_fraude": 0.8667,
+      "motivos": {
+        "RUNAS_A_IMPAR": 4,
+        "SELO_INVALIDO": 4,
+        "ASSINATURA_INVALIDA": 2,
+        "CABECALHO_MALFORMADO": 2,
+        "DECRETO_CLONADO": 2,
+        "RUNA_FORA_DO_ALFABETO": 1
+      }
+    },
+    {
+      "posicao": 2,
+      "guilda": "???",
+      "nome": "Guilda não identificada",
+      "fraudes": 8,
+      "autenticos": 0,
+      "total": 8,
+      "taxa_fraude": 1.0,
+      "motivos": {
+        "ID_INVALIDO": 8,
+        "ASSINATURA_INVALIDA": 1,
+        "SELO_INVALIDO": 1
+      }
+    },
+    {
+      "posicao": 3,
+      "guilda": "MAG",
+      "nome": "Círculo dos Magos",
+      "fraudes": 6,
+      "autenticos": 1,
+      "total": 7,
+      "taxa_fraude": 0.8571,
+      "motivos": {
+        "ASSINATURA_INVALIDA": 2,
+        "RUNAS_SEM_SUFIXO_BC": 2,
+        "CABECALHO_MALFORMADO": 1,
+        "SELO_INVALIDO": 1
+      }
+    },
+    {
+      "posicao": 4,
+      "guilda": "ALQ",
+      "nome": "Guilda dos Alquimistas",
+      "fraudes": 4,
+      "autenticos": 3,
+      "total": 7,
+      "taxa_fraude": 0.5714,
+      "motivos": {
+        "ASSINATURA_INVALIDA": 1,
+        "CABECALHO_MALFORMADO": 1,
+        "RUNA_FORA_DO_ALFABETO": 1,
+        "SELO_INVALIDO": 1
+      }
+    },
+    {
+      "posicao": 5,
+      "guilda": "MER",
+      "nome": "Liga dos Mercadores",
+      "fraudes": 2,
+      "autenticos": 1,
+      "total": 3,
+      "taxa_fraude": 0.6667,
+      "motivos": {
+        "RUNAS_SEM_SUFIXO_BC": 1,
+        "SELO_INVALIDO": 1
+      }
+    },
+    {
+      "posicao": 5,
+      "guilda": "NAV",
+      "nome": "Irmandade dos Navegantes",
+      "fraudes": 2,
+      "autenticos": 2,
+      "total": 4,
+      "taxa_fraude": 0.5,
+      "motivos": {
+        "ASSINATURA_INVALIDA": 1,
+        "RUNA_FORA_DO_ALFABETO": 1
+      }
+    },
+    {
+      "posicao": 7,
+      "guilda": "ESC",
+      "nome": "Ordem dos Escribas",
+      "fraudes": 1,
+      "autenticos": 1,
+      "total": 2,
+      "taxa_fraude": 0.5,
+      "motivos": {
+        "ASSINATURA_INVALIDA": 1
+      }
+    },
+    {
+      "posicao": 8,
+      "guilda": "CAV",
+      "nome": "Ordem dos Cavaleiros",
+      "fraudes": 0,
+      "autenticos": 1,
+      "total": 1,
+      "taxa_fraude": 0.0,
+      "motivos": {}
+    },
+    {
+      "posicao": 8,
+      "guilda": "HER",
+      "nome": "Guilda dos Herboristas",
+      "fraudes": 0,
+      "autenticos": 1,
+      "total": 1,
+      "taxa_fraude": 0.0,
+      "motivos": {}
+    }
+  ]
+}

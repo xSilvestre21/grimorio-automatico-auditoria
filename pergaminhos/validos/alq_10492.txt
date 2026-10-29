@@ -1,0 +1,7 @@
+# Pergaminho AUTÊNTICO.
+# Exemplo do enunciado; duas runas 'a' e termina em bc.
+Decreto: ALQ-10492
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+abacbc

@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Dia 30 de fevereiro e assinatura com números.
+# Motivo(s) esperado(s): SELO_INVALIDO, ASSINATURA_INVALIDA
+Decreto: FOR-7002
+Selo Temporal: 30/02/2030
+Assinatura: [Bruxo 007]
+---
+abacbc

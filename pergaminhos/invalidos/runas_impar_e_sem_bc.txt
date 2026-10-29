@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Ímpar de 'a' e sem 'bc': o AFD mínimo para em q3 e acusa a paridade (com paridade ímpar o sufixo é irrelevante).
+# Motivo(s) esperado(s): RUNAS_A_IMPAR
+Decreto: FOR-5003
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+acb

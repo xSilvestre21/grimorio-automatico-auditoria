@@ -1,0 +1,53 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                      GRIMÓRIO AUTOMÁTICO DE AUDITORIA                      ║
+║              Ranking de guildas com mais tentativas de fraude              ║
+║       Ordem dos Arquivistas e Mestres do Saber · Reino de Aethelgard       ║
+╚════════════════════════════════════════════════════════════════════════════╝
+Gerado em: 2026-10-29T15:23:31
+Pergaminhos auditados: 48   Fraudes: 36
+
+ Pos  Sigla  Guilda                           Fraudes  Autênt.  Total    Taxa
+─────────────────────────────────────────────────────────────────────────────
+  1º  FOR    Guilda dos Forjadores                 13        2     15     87%
+  2º  ???    Guilda não identificada                8        0      8    100%
+  3º  MAG    Círculo dos Magos                      6        1      7     86%
+  4º  ALQ    Guilda dos Alquimistas                 4        3      7     57%
+  5º  MER    Liga dos Mercadores                    2        1      3     67%
+  5º  NAV    Irmandade dos Navegantes               2        2      4     50%
+  7º  ESC    Ordem dos Escribas                     1        1      2     50%
+  8º  CAV    Ordem dos Cavaleiros                   0        1      1      0%
+  8º  HER    Guilda dos Herboristas                 0        1      1      0%
+
+Detalhamento dos motivos de fraude por guilda
+─────────────────────────────────────────────────────────────────────────────
+1º FOR — Guilda dos Forjadores (13 fraude(s))
+      4 × Feitiço instável: número ímpar de runas 'a'
+      4 × Selo temporal inválido: data inexistente ou fora da Terceira Era (2000-2099)
+      2 × Assinatura do mago fora do padrão [letras e espaços, de 5 a 40 caracteres]
+      2 × Pergaminho malformado: campo obrigatório ausente, repetido ou desconhecido
+      2 × Decreto clonado: identificador já autenticado com conteúdo diferente
+      1 × Runa corrompida: símbolo fora do alfabeto Σ = {a, b, c}
+2º ??? — Guilda não identificada (8 fraude(s))
+      8 × Identificador de decreto fora do padrão AAA-NNNN (3 letras, hífen, 4 a 6 dígitos)
+      1 × Assinatura do mago fora do padrão [letras e espaços, de 5 a 40 caracteres]
+      1 × Selo temporal inválido: data inexistente ou fora da Terceira Era (2000-2099)
+3º MAG — Círculo dos Magos (6 fraude(s))
+      2 × Assinatura do mago fora do padrão [letras e espaços, de 5 a 40 caracteres]
+      2 × Feitiço incompleto: a sequência rúnica não termina em 'bc'
+      1 × Pergaminho malformado: campo obrigatório ausente, repetido ou desconhecido
+      1 × Selo temporal inválido: data inexistente ou fora da Terceira Era (2000-2099)
+4º ALQ — Guilda dos Alquimistas (4 fraude(s))
+      1 × Assinatura do mago fora do padrão [letras e espaços, de 5 a 40 caracteres]
+      1 × Pergaminho malformado: campo obrigatório ausente, repetido ou desconhecido
+      1 × Runa corrompida: símbolo fora do alfabeto Σ = {a, b, c}
+      1 × Selo temporal inválido: data inexistente ou fora da Terceira Era (2000-2099)
+5º MER — Liga dos Mercadores (2 fraude(s))
+      1 × Feitiço incompleto: a sequência rúnica não termina em 'bc'
+      1 × Selo temporal inválido: data inexistente ou fora da Terceira Era (2000-2099)
+5º NAV — Irmandade dos Navegantes (2 fraude(s))
+      1 × Assinatura do mago fora do padrão [letras e espaços, de 5 a 40 caracteres]
+      1 × Runa corrompida: símbolo fora do alfabeto Σ = {a, b, c}
+7º ESC — Ordem dos Escribas (1 fraude(s))
+      1 × Assinatura do mago fora do padrão [letras e espaços, de 5 a 40 caracteres]
+
+Obs.: um pergaminho pode ter mais de um motivo de fraude.

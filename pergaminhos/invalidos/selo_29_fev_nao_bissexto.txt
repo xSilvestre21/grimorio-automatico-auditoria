@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# 29 de fevereiro em ano não bissexto.
+# Motivo(s) esperado(s): SELO_INVALIDO
+Decreto: ALQ-3004
+Selo Temporal: 29/02/2023
+Assinatura: [Mestre Alabaster]
+---
+abacbc

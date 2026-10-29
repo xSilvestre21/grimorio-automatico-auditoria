@@ -1,0 +1,7 @@
+# Pergaminho AUTÊNTICO.
+# Identificador com 6 dígitos (máximo) e último dia da Terceira Era.
+Decreto: MAG-777777
+Selo Temporal: 31/12/2099
+Assinatura: [Arquimaga Elowen]
+---
+aabc

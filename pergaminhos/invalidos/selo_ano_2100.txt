@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Ano posterior à Terceira Era.
+# Motivo(s) esperado(s): SELO_INVALIDO
+Decreto: MAG-3002
+Selo Temporal: 01/01/2100
+Assinatura: [Mestre Alabaster]
+---
+abacbc

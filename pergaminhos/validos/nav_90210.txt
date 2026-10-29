@@ -1,0 +1,7 @@
+# Pergaminho AUTÊNTICO.
+# 28/02 em ano não bissexto; 'bc' aparece no meio e no fim.
+Decreto: NAV-90210
+Selo Temporal: 28/02/2023
+Assinatura: [Capitã Marisol]
+---
+bcbcbcaacbaabc

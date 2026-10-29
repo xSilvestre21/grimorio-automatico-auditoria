@@ -1,0 +1,833 @@
+{
+  "sistema": "GAA - Grimório Automático de Auditoria",
+  "versao": 1,
+  "salvo_em": "2026-10-29T14:19:34",
+  "total": 48,
+  "registros": [
+    {
+      "identificador": "MAG-4001",
+      "guilda": "MAG",
+      "autentico": false,
+      "motivos": [
+        "ASSINATURA_INVALIDA"
+      ],
+      "detalhes": [
+        "assinatura '[Mago Merlin 3]' não é [letras e espaços] com 5 a 40 caracteres"
+      ],
+      "origem": "pergaminhos/invalidos/assinatura_com_numeros.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mago Merlin 3]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "2206cdcf794ac0c97c90d92a44c246186ce05e450fe7f79789692d1026d73b4c",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-4002",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "ASSINATURA_INVALIDA"
+      ],
+      "detalhes": [
+        "assinatura '[Zed]' não é [letras e espaços] com 5 a 40 caracteres"
+      ],
+      "origem": "pergaminhos/invalidos/assinatura_curta.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Zed]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "1306b120ba1c5799035a744dbd10fe583ee3c46768417d75afca80830e716b13",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "NAV-4003",
+      "guilda": "NAV",
+      "autentico": false,
+      "motivos": [
+        "ASSINATURA_INVALIDA"
+      ],
+      "detalhes": [
+        "assinatura '[Sir Galahad de Aethelgard Cavaleiro Reall]' não é [letras e espaços] com 5 a 40 caracteres"
+      ],
+      "origem": "pergaminhos/invalidos/assinatura_longa.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Sir Galahad de Aethelgard Cavaleiro Reall]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "de1828c6d9a77d727fee0eede89d207fbf3b420e52fb2c2eca97b61edebf7bc3",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MAG-4006",
+      "guilda": "MAG",
+      "autentico": false,
+      "motivos": [
+        "ASSINATURA_INVALIDA"
+      ],
+      "detalhes": [
+        "assinatura '[Mestre Alabaster²]' não é [letras e espaços] com 5 a 40 caracteres"
+      ],
+      "origem": "pergaminhos/invalidos/assinatura_numero_sobrescrito.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster²]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "62e85939fca7fd927827c2574c4c7e25916b85f9ac25a115bb0f70a79f9fd89c",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ESC-4004",
+      "guilda": "ESC",
+      "autentico": false,
+      "motivos": [
+        "ASSINATURA_INVALIDA"
+      ],
+      "detalhes": [
+        "assinatura 'Mestre Alabaster' não é [letras e espaços] com 5 a 40 caracteres"
+      ],
+      "origem": "pergaminhos/invalidos/assinatura_sem_colchetes.txt",
+      "selo": "15/03/2047",
+      "assinatura": "Mestre Alabaster",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "fc485a415c2d23b9313208909903b6f0e460732ef4ff780758f170de832b3067",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ALQ-4005",
+      "guilda": "ALQ",
+      "autentico": false,
+      "motivos": [
+        "ASSINATURA_INVALIDA"
+      ],
+      "detalhes": [
+        "assinatura '[       ]' não é [letras e espaços] com 5 a 40 caracteres"
+      ],
+      "origem": "pergaminhos/invalidos/assinatura_so_espacos.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[       ]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "4e1891895e3aa077c941200c1be344465a0a769c522d5db8db99d2e4103506f0",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ALQ-6003",
+      "guilda": "ALQ",
+      "autentico": false,
+      "motivos": [
+        "CABECALHO_MALFORMADO"
+      ],
+      "detalhes": [
+        "campo desconhecido 'Carimbo' na linha 7"
+      ],
+      "origem": "pergaminhos/invalidos/cabecalho_campo_desconhecido.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "adc40a2e62d5c3a7557b7332b649c76fa9dfa3f9f9101943c1e1601fbc5471e3",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-6004",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "CABECALHO_MALFORMADO"
+      ],
+      "detalhes": [
+        "campo 'Decreto' repetido na linha 7"
+      ],
+      "origem": "pergaminhos/invalidos/cabecalho_campo_repetido.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "0a1008831389734fbda79d585e93a05b02d915cd5f317dcc672e7a19763b8aae",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-6001",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "CABECALHO_MALFORMADO"
+      ],
+      "detalhes": [
+        "campo obrigatório 'Assinatura' ausente"
+      ],
+      "origem": "pergaminhos/invalidos/cabecalho_sem_assinatura.txt",
+      "selo": "15/03/2047",
+      "assinatura": null,
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "e6f1e36333c0513bc32964a48c5f0c2613243b742fb844d0eb1fb222834ae6bc",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MAG-6002",
+      "guilda": "MAG",
+      "autentico": false,
+      "motivos": [
+        "CABECALHO_MALFORMADO"
+      ],
+      "detalhes": [
+        "separador '---' entre cabeçalho e runas não encontrado",
+        "linha 7 não está no formato 'Campo: valor': 'abacbc'"
+      ],
+      "origem": "pergaminhos/invalidos/cabecalho_sem_separador.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": null,
+      "estado_final_afd": null,
+      "digesto": "29b57f20eba509bf8d481ae0bc0bc61287282bb3134e6caef08f3841914e6586",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "for-12",
+      "guilda": "???",
+      "autentico": false,
+      "motivos": [
+        "ID_INVALIDO",
+        "SELO_INVALIDO",
+        "ASSINATURA_INVALIDA"
+      ],
+      "detalhes": [
+        "identificador 'for-12' não segue o padrão AAA-NNNN (ex.: ALQ-10492)",
+        "selo '32/13/1999' não é uma data DD/MM/AAAA válida entre 2000 e 2099",
+        "assinatura '[R2D2]' não é [letras e espaços] com 5 a 40 caracteres"
+      ],
+      "origem": "pergaminhos/invalidos/falhas_multiplas.txt",
+      "selo": "32/13/1999",
+      "assinatura": "[R2D2]",
+      "runas": "a",
+      "estado_final_afd": null,
+      "digesto": "3d20764180f5041454c2bfd55deec2e756741be939858d402edd1d4f8e7be74f",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ALQ-١٢٣٤",
+      "guilda": "???",
+      "autentico": false,
+      "motivos": [
+        "ID_INVALIDO"
+      ],
+      "detalhes": [
+        "identificador 'ALQ-١٢٣٤' não segue o padrão AAA-NNNN (ex.: ALQ-10492)"
+      ],
+      "origem": "pergaminhos/invalidos/id_digitos_unicode.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "fb90ac0962538f45e2d8519af2cde3003e2684e3e7391b61991fd52f73a5b994",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FO-2232",
+      "guilda": "???",
+      "autentico": false,
+      "motivos": [
+        "ID_INVALIDO"
+      ],
+      "detalhes": [
+        "identificador 'FO-2232' não segue o padrão AAA-NNNN (ex.: ALQ-10492)"
+      ],
+      "origem": "pergaminhos/invalidos/id_duas_letras.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "9e6389f8ce07ddea60146a8e46db478bce4fa8edbdd95cf877481686b19c4c00",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "alq-10493",
+      "guilda": "???",
+      "autentico": false,
+      "motivos": [
+        "ID_INVALIDO"
+      ],
+      "detalhes": [
+        "identificador 'alq-10493' não segue o padrão AAA-NNNN (ex.: ALQ-10492)"
+      ],
+      "origem": "pergaminhos/invalidos/id_minusculas.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "25a4cc3a4bf753a4f7e902341956e5bcabea4cb4dc4ba54c293b0ed4a00fdb56",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MAGO-1234",
+      "guilda": "???",
+      "autentico": false,
+      "motivos": [
+        "ID_INVALIDO"
+      ],
+      "detalhes": [
+        "identificador 'MAGO-1234' não segue o padrão AAA-NNNN (ex.: ALQ-10492)"
+      ],
+      "origem": "pergaminhos/invalidos/id_quatro_letras.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "9048aff64b39e114df333a9ae448c6ee4d37d8657ba955cfdc57eccb1986706e",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MER_4421",
+      "guilda": "???",
+      "autentico": false,
+      "motivos": [
+        "ID_INVALIDO"
+      ],
+      "detalhes": [
+        "identificador 'MER_4421' não segue o padrão AAA-NNNN (ex.: ALQ-10492)"
+      ],
+      "origem": "pergaminhos/invalidos/id_sem_hifen.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "9a1224fec5d8742ece4d38910fb8ee2c2b17c7d8acc4f66903ae5c8d3b661d36",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-1234567",
+      "guilda": "???",
+      "autentico": false,
+      "motivos": [
+        "ID_INVALIDO"
+      ],
+      "detalhes": [
+        "identificador 'FOR-1234567' não segue o padrão AAA-NNNN (ex.: ALQ-10492)"
+      ],
+      "origem": "pergaminhos/invalidos/id_sete_digitos.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "d0bf3530793dfecb604cdd92fa813e36ddb25d4874543b0636850fb280aeac3c",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-123",
+      "guilda": "???",
+      "autentico": false,
+      "motivos": [
+        "ID_INVALIDO"
+      ],
+      "detalhes": [
+        "identificador 'FOR-123' não segue o padrão AAA-NNNN (ex.: ALQ-10492)"
+      ],
+      "origem": "pergaminhos/invalidos/id_tres_digitos.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "0d79befa9ea41639449f31d0cbc6375177fa2eacb60b5afe8894e35da07b101a",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-5001",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "RUNAS_A_IMPAR"
+      ],
+      "detalhes": [
+        "o AFD terminou em q3 ('a' ímpar), que não pertence a F = {q2}"
+      ],
+      "origem": "pergaminhos/invalidos/runas_a_impar.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abc",
+      "estado_final_afd": "q3",
+      "digesto": "2b4bf9a38740fa83ff094cd0e2c1e0eff9da47d18029c2aa890fe8845c12d5e2",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-5007",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "RUNA_FORA_DO_ALFABETO"
+      ],
+      "detalhes": [
+        "símbolo ' ' na posição 3 não pertence a Σ = {a, b, c}"
+      ],
+      "origem": "pergaminhos/invalidos/runas_com_espaco.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "aa bc",
+      "estado_final_afd": "q0",
+      "digesto": "c974c4d8627639df9242d87d38232421351ca8987ef0188f803b15a1b0b0b5be",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ALQ-5004",
+      "guilda": "ALQ",
+      "autentico": false,
+      "motivos": [
+        "RUNA_FORA_DO_ALFABETO"
+      ],
+      "detalhes": [
+        "símbolo 'x' na posição 3 não pertence a Σ = {a, b, c}"
+      ],
+      "origem": "pergaminhos/invalidos/runas_corrompidas.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abxbc",
+      "estado_final_afd": "q3",
+      "digesto": "53c2e72704dfa6959e8405bb1e3e1a3a61c50c4d4114d344ee7cfe9f76af72ae",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-5003",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "RUNAS_A_IMPAR"
+      ],
+      "detalhes": [
+        "o AFD terminou em q3 ('a' ímpar), que não pertence a F = {q2}"
+      ],
+      "origem": "pergaminhos/invalidos/runas_impar_e_sem_bc.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "acb",
+      "estado_final_afd": "q3",
+      "digesto": "10b39835b5c665d139b84c8356467859cc388375418a0b4174ae60d33f0b331f",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "NAV-5005",
+      "guilda": "NAV",
+      "autentico": false,
+      "motivos": [
+        "RUNA_FORA_DO_ALFABETO"
+      ],
+      "detalhes": [
+        "símbolo 'A' na posição 1 não pertence a Σ = {a, b, c}"
+      ],
+      "origem": "pergaminhos/invalidos/runas_maiusculas.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "AABC",
+      "estado_final_afd": "q0",
+      "digesto": "9200562637b1cc85c1217102d6c22773a50b206a6f49407c53f55366e2c67376",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MAG-5002",
+      "guilda": "MAG",
+      "autentico": false,
+      "motivos": [
+        "RUNAS_SEM_SUFIXO_BC"
+      ],
+      "detalhes": [
+        "o AFD terminou em q1 ('a' par, último símbolo 'b'), que não pertence a F = {q2}"
+      ],
+      "origem": "pergaminhos/invalidos/runas_sem_bc.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "aacb",
+      "estado_final_afd": "q1",
+      "digesto": "eedd592bd05a4e38ba74306c7f478a4f55d5181fd4a031b1b43374ba8ebe98b6",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MER-5006",
+      "guilda": "MER",
+      "autentico": false,
+      "motivos": [
+        "RUNAS_SEM_SUFIXO_BC"
+      ],
+      "detalhes": [
+        "o AFD terminou em q0 ('a' par, sem sufixo útil), que não pertence a F = {q2}"
+      ],
+      "origem": "pergaminhos/invalidos/runas_vazias.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "",
+      "estado_final_afd": "q0",
+      "digesto": "766af18154bc291c24570adb48efc1b4c2ac3ef3dac059cac003a9b1e05bb78a",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ALQ-3004",
+      "guilda": "ALQ",
+      "autentico": false,
+      "motivos": [
+        "SELO_INVALIDO"
+      ],
+      "detalhes": [
+        "selo '29/02/2023' não é uma data DD/MM/AAAA válida entre 2000 e 2099"
+      ],
+      "origem": "pergaminhos/invalidos/selo_29_fev_nao_bissexto.txt",
+      "selo": "29/02/2023",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "e077f857012a4c2f81c88a6f0cc7f7f4d63dbfa216910b818f577363add59105",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-3003",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "SELO_INVALIDO"
+      ],
+      "detalhes": [
+        "selo '31/04/2050' não é uma data DD/MM/AAAA válida entre 2000 e 2099"
+      ],
+      "origem": "pergaminhos/invalidos/selo_31_de_abril.txt",
+      "selo": "31/04/2050",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "ba9fecdad026445970bcfaf712a49872b63f2cfa1e544c1296d025c748d7ea92",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-3001",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "SELO_INVALIDO"
+      ],
+      "detalhes": [
+        "selo '15/03/1999' não é uma data DD/MM/AAAA válida entre 2000 e 2099"
+      ],
+      "origem": "pergaminhos/invalidos/selo_ano_1999.txt",
+      "selo": "15/03/1999",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "32c5b4b79fb8b7e3228fcc504836638b5a6e35df192093d62d14de0a5a6dea0a",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MAG-3002",
+      "guilda": "MAG",
+      "autentico": false,
+      "motivos": [
+        "SELO_INVALIDO"
+      ],
+      "detalhes": [
+        "selo '01/01/2100' não é uma data DD/MM/AAAA válida entre 2000 e 2099"
+      ],
+      "origem": "pergaminhos/invalidos/selo_ano_2100.txt",
+      "selo": "01/01/2100",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "195c73a4af898965f6ecf7574d8096d7df86d6c4474c683cf453c74808835979",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-7002",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "SELO_INVALIDO",
+        "ASSINATURA_INVALIDA"
+      ],
+      "detalhes": [
+        "selo '30/02/2030' não é uma data DD/MM/AAAA válida entre 2000 e 2099",
+        "assinatura '[Bruxo 007]' não é [letras e espaços] com 5 a 40 caracteres"
+      ],
+      "origem": "pergaminhos/invalidos/selo_e_assinatura.txt",
+      "selo": "30/02/2030",
+      "assinatura": "[Bruxo 007]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "51f547b2ee6036677a520205f9e1e012a01b5923a23a3b85e84e65b72f013605",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MER-3005",
+      "guilda": "MER",
+      "autentico": false,
+      "motivos": [
+        "SELO_INVALIDO"
+      ],
+      "detalhes": [
+        "selo '2047-03-15' não é uma data DD/MM/AAAA válida entre 2000 e 2099"
+      ],
+      "origem": "pergaminhos/invalidos/selo_formato_iso.txt",
+      "selo": "2047-03-15",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "31ef526549a287dd41c5bf49dccb7dc1adf4f3b691916b6c927de588db120aca",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-3006",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "SELO_INVALIDO"
+      ],
+      "detalhes": [
+        "selo '5/3/2047' não é uma data DD/MM/AAAA válida entre 2000 e 2099"
+      ],
+      "origem": "pergaminhos/invalidos/selo_sem_zero.txt",
+      "selo": "5/3/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": null,
+      "digesto": "c6ddd7c712e5bc4903cf813e1e57cfed03f4cf88fc7047c5bbdfa6d56a2fcce1",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-8001",
+      "guilda": "FOR",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/lote_misto.txt#1",
+      "selo": "12/12/2012",
+      "assinatura": "[Mestra Forjadora Brunhilda]",
+      "runas": "cbbc",
+      "estado_final_afd": "q2",
+      "digesto": "ece27531e5f6d9b390c50b5594ef83250c7aa12b11784efd91b9e8112a060480",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ALQ-8002",
+      "guilda": "ALQ",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/lote_misto.txt#2",
+      "selo": "07/07/2077",
+      "assinatura": "[Alquimista Zoraide]",
+      "runas": "aacbc",
+      "estado_final_afd": "q2",
+      "digesto": "5ac16822f76180d3d228730ba4749748a07c453c6cb0b0ea69b93dfd80eb1a27",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-8001",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "DECRETO_CLONADO"
+      ],
+      "detalhes": [
+        "o decreto FOR-8001 já foi autenticado a partir de pergaminhos/lote_misto.txt#1"
+      ],
+      "origem": "pergaminhos/lote_misto.txt#3",
+      "selo": "12/12/2012",
+      "assinatura": "[Mestra Forjadora Brunilda]",
+      "runas": "cbbc",
+      "estado_final_afd": "q2",
+      "digesto": "a8edc4eb11d68d555513772db0407842b1bce1e29dd115a264495aa31ac951ca",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MAG-8003",
+      "guilda": "MAG",
+      "autentico": false,
+      "motivos": [
+        "RUNAS_SEM_SUFIXO_BC"
+      ],
+      "detalhes": [
+        "o AFD terminou em q1 ('a' par, último símbolo 'b'), que não pertence a F = {q2}"
+      ],
+      "origem": "pergaminhos/lote_misto.txt#5",
+      "selo": "14/09/2041",
+      "assinatura": "[Grão Mago Ithiel]",
+      "runas": "abab",
+      "estado_final_afd": "q1",
+      "digesto": "e9c5ef17caf2892eaa63948519ff915deefd0eb68e275451bae75108d0c4d67d",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-8004",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "RUNAS_A_IMPAR"
+      ],
+      "detalhes": [
+        "o AFD terminou em q3 ('a' ímpar), que não pertence a F = {q2}"
+      ],
+      "origem": "pergaminhos/lote_misto.txt#6",
+      "selo": "02/05/2019",
+      "assinatura": "[Mestre Ferreiro Ulric]",
+      "runas": "aaabc",
+      "estado_final_afd": "q3",
+      "digesto": "1bb77ef7453dd05ce21953925f3168b176d19552abe0730fadba2b377a98309f",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "NAV-8005",
+      "guilda": "NAV",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/lote_misto.txt#7",
+      "selo": "21/06/2033",
+      "assinatura": "[Almirante Corvina]",
+      "runas": "babcabcbc",
+      "estado_final_afd": "q2",
+      "digesto": "7fda733f974e401fe895d157b1f06c2a2ce1d2e08e64c81296bc8e7dbf4ce246",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-8001",
+      "guilda": "FOR",
+      "autentico": false,
+      "motivos": [
+        "RUNAS_A_IMPAR",
+        "DECRETO_CLONADO"
+      ],
+      "detalhes": [
+        "o AFD terminou em q3 ('a' ímpar), que não pertence a F = {q2}",
+        "o decreto FOR-8001 já foi autenticado a partir de pergaminhos/lote_misto.txt#1"
+      ],
+      "origem": "pergaminhos/lote_misto.txt#8",
+      "selo": "12/12/2012",
+      "assinatura": "[Mestra Forjadora Brunhilda]",
+      "runas": "abc",
+      "estado_final_afd": "q3",
+      "digesto": "e8d25db429b9983c387815a5d30dd4937c0f0d76ed2fb818426f272037112d05",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ALQ-10492",
+      "guilda": "ALQ",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/validos/alq_10492.txt",
+      "selo": "15/03/2047",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "abacbc",
+      "estado_final_afd": "q2",
+      "digesto": "62787decb5f55fea63f9af6bf5184e934d4143c741ba54a062c49634c953b871",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ALQ-55555",
+      "guilda": "ALQ",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/validos/alq_55555_runas_longas.txt",
+      "selo": "10/10/2010",
+      "assinatura": "[Mestre Alabaster]",
+      "runas": "ccbaabccbaabccbaabccbaabccbaabccbaabccbaabccbaabbc",
+      "estado_final_afd": "q2",
+      "digesto": "6ba9724ade33eb4afa7e9c115ef0ce6aaa3181af8cefa3d59f34566ec533086c",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "CAV-123456",
+      "guilda": "CAV",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/validos/cav_123456_assinatura_maxima.txt",
+      "selo": "31/01/2031",
+      "assinatura": "[Sir Galahad de Aethelgard Cavaleiro Real]",
+      "runas": "aaaabc",
+      "estado_final_afd": "q2",
+      "digesto": "66367b49f562350f68903e9cddd2475af964ad16bac80f43ba5bcf44e4b62c55",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "ESC-31415",
+      "guilda": "ESC",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/validos/esc_31415.txt",
+      "selo": "30/04/2026",
+      "assinatura": "[Escriba Íris Valença]",
+      "runas": "ababbc",
+      "estado_final_afd": "q2",
+      "digesto": "e9ba8e42e6aecfd278b69ea4c3a89f5c3b58551cd86604f73e730488ed6311aa",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "FOR-2231",
+      "guilda": "FOR",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/validos/for_2231.txt",
+      "selo": "29/02/2048",
+      "assinatura": "[Ferreira Dourada Thorne]",
+      "runas": "bc",
+      "estado_final_afd": "q2",
+      "digesto": "19a127c0daa4e7019046d3b08701d16da0ded74c30ad36950aa2859e511c1afd",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "HER-1000",
+      "guilda": "HER",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/validos/her_1000_assinatura_minima.txt",
+      "selo": "29/02/2000",
+      "assinatura": "[Merla]",
+      "runas": "bc",
+      "estado_final_afd": "q2",
+      "digesto": "5b042cfe585989272cff0c7d86f188b8ab9baba9b59a970699f657a03eb3868c",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MAG-777777",
+      "guilda": "MAG",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/validos/mag_777777.txt",
+      "selo": "31/12/2099",
+      "assinatura": "[Arquimaga Elowen]",
+      "runas": "aabc",
+      "estado_final_afd": "q2",
+      "digesto": "cae19e46a88e7e0cfb90b998b7b6551b8bb223702139dd2f5db9e2dbd6821e0c",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "MER-0042",
+      "guilda": "MER",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/validos/mer_0042.txt",
+      "selo": "01/01/2000",
+      "assinatura": "[Lorde Mercador Bastião]",
+      "runas": "cccaacbbbc",
+      "estado_final_afd": "q2",
+      "digesto": "d283979be2f673d941e87920f1954ff91b789f94539b8a7f720837058176e26a",
+      "auditado_em": "2026-10-29T14:19:34"
+    },
+    {
+      "identificador": "NAV-90210",
+      "guilda": "NAV",
+      "autentico": true,
+      "motivos": [],
+      "detalhes": [],
+      "origem": "pergaminhos/validos/nav_90210.txt",
+      "selo": "28/02/2023",
+      "assinatura": "[Capitã Marisol]",
+      "runas": "bcbcbcaacbaabc",
+      "estado_final_afd": "q2",
+      "digesto": "818456d68bc15750660aac25af9187e566ed524e8a9702f3b4d801fa180761c7",
+      "auditado_em": "2026-10-29T14:19:34"
+    }
+  ]
+}

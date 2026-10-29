@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Assinatura com 3 caracteres (mínimo é 5).
+# Motivo(s) esperado(s): ASSINATURA_INVALIDA
+Decreto: FOR-4002
+Selo Temporal: 15/03/2047
+Assinatura: [Zed]
+---
+abacbc

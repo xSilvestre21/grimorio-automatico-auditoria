@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Runas maiúsculas não pertencem a Σ.
+# Motivo(s) esperado(s): RUNA_FORA_DO_ALFABETO
+Decreto: NAV-5005
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+AABC

@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Assinatura contendo número.
+# Motivo(s) esperado(s): ASSINATURA_INVALIDA
+Decreto: MAG-4001
+Selo Temporal: 15/03/2047
+Assinatura: [Mago Merlin 3]
+---
+abacbc

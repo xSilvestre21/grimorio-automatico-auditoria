@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Corpo vazio: ε tem zero 'a' (par), mas não termina em 'bc'.
+# Motivo(s) esperado(s): RUNAS_SEM_SUFIXO_BC
+Decreto: MER-5006
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+

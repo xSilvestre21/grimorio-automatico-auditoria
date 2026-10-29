@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Assinatura sem os colchetes.
+# Motivo(s) esperado(s): ASSINATURA_INVALIDA
+Decreto: ESC-4004
+Selo Temporal: 15/03/2047
+Assinatura: Mestre Alabaster
+---
+abacbc

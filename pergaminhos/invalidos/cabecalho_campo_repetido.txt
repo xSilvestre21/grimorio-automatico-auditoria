@@ -1,0 +1,9 @@
+# Pergaminho FRAUDULENTO (teste).
+# Dois campos Decreto no mesmo pergaminho.
+# Motivo(s) esperado(s): CABECALHO_MALFORMADO
+Decreto: FOR-6004
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+Decreto: FOR-6005
+---
+abacbc

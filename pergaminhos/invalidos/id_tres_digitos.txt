@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Número sequencial com só 3 dígitos.
+# Motivo(s) esperado(s): ID_INVALIDO
+Decreto: FOR-123
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+abacbc

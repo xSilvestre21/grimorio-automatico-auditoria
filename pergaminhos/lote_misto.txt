@@ -1,0 +1,58 @@
+# Lote misto confiscado na Guilda dos Forjadores.
+# Vários pergaminhos num só arquivo, separados por linhas '==='.
+===
+# Nº 1: Decreto original, autêntico.
+Decreto: FOR-8001
+Selo Temporal: 12/12/2012
+Assinatura: [Mestra Forjadora Brunhilda]
+---
+cbbc
+===
+# Nº 2: Autêntico.
+Decreto: ALQ-8002
+Selo Temporal: 07/07/2077
+Assinatura: [Alquimista Zoraide]
+---
+aacbc
+===
+# Nº 3: Clone do nº 1 com a assinatura levemente alterada.
+Decreto: FOR-8001
+Selo Temporal: 12/12/2012
+Assinatura: [Mestra Forjadora Brunilda]
+---
+cbbc
+===
+# Nº 4: Cópia idêntica do nº 2: já auditada, deve ser ignorada.
+Decreto: ALQ-8002
+Selo Temporal: 07/07/2077
+Assinatura: [Alquimista Zoraide]
+---
+aacbc
+===
+# Nº 5: Não termina em 'bc'.
+Decreto: MAG-8003
+Selo Temporal: 14/09/2041
+Assinatura: [Grão Mago Ithiel]
+---
+abab
+===
+# Nº 6: Três runas 'a'.
+Decreto: FOR-8004
+Selo Temporal: 02/05/2019
+Assinatura: [Mestre Ferreiro Ulric]
+---
+aaabc
+===
+# Nº 7: Autêntico.
+Decreto: NAV-8005
+Selo Temporal: 21/06/2033
+Assinatura: [Almirante Corvina]
+---
+babcabcbc
+===
+# Nº 8: Clone do nº 1 com runas adulteradas.
+Decreto: FOR-8001
+Selo Temporal: 12/12/2012
+Assinatura: [Mestra Forjadora Brunhilda]
+---
+abc

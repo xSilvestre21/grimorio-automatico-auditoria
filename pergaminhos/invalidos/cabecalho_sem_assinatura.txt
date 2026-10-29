@@ -1,0 +1,7 @@
+# Pergaminho FRAUDULENTO (teste).
+# Campo Assinatura ausente.
+# Motivo(s) esperado(s): CABECALHO_MALFORMADO
+Decreto: FOR-6001
+Selo Temporal: 15/03/2047
+---
+abacbc

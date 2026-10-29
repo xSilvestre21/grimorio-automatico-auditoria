@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Termina em 'cb' em vez de 'bc'.
+# Motivo(s) esperado(s): RUNAS_SEM_SUFIXO_BC
+Decreto: MAG-5002
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+aacb

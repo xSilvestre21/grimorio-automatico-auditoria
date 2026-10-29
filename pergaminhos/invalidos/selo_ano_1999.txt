@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Ano anterior à Terceira Era.
+# Motivo(s) esperado(s): SELO_INVALIDO
+Decreto: FOR-3001
+Selo Temporal: 15/03/1999
+Assinatura: [Mestre Alabaster]
+---
+abacbc

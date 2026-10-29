@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Sigla da guilda em letras minúsculas.
+# Motivo(s) esperado(s): ID_INVALIDO
+Decreto: alq-10493
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+abacbc

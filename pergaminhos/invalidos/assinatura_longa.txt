@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Assinatura com 41 caracteres (máximo é 40).
+# Motivo(s) esperado(s): ASSINATURA_INVALIDA
+Decreto: NAV-4003
+Selo Temporal: 15/03/2047
+Assinatura: [Sir Galahad de Aethelgard Cavaleiro Reall]
+---
+abacbc

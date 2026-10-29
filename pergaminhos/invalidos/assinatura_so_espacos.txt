@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Assinatura só com espaços.
+# Motivo(s) esperado(s): ASSINATURA_INVALIDA
+Decreto: ALQ-4005
+Selo Temporal: 15/03/2047
+Assinatura: [       ]
+---
+abacbc

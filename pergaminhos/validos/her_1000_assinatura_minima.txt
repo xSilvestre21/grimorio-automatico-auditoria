@@ -1,0 +1,7 @@
+# Pergaminho AUTÊNTICO.
+# Assinatura com exatamente 5 caracteres; 2000 é bissexto (divisível por 400).
+Decreto: HER-1000
+Selo Temporal: 29/02/2000
+Assinatura: [Merla]
+---
+bc

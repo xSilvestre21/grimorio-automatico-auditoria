@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Três campos inválidos de uma vez; o AFD nem chega a rodar.
+# Motivo(s) esperado(s): ID_INVALIDO, SELO_INVALIDO, ASSINATURA_INVALIDA
+Decreto: for-12
+Selo Temporal: 32/13/1999
+Assinatura: [R2D2]
+---
+a

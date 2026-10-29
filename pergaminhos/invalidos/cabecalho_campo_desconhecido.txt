@@ -1,0 +1,9 @@
+# Pergaminho FRAUDULENTO (teste).
+# Campo extra não previsto no selo real.
+# Motivo(s) esperado(s): CABECALHO_MALFORMADO
+Decreto: ALQ-6003
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+Carimbo: aprovado pelo rei
+---
+abacbc

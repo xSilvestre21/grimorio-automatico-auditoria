@@ -1,0 +1,7 @@
+# Pergaminho FRAUDULENTO (teste).
+# Falta a linha '---' entre cabeçalho e runas.
+# Motivo(s) esperado(s): CABECALHO_MALFORMADO
+Decreto: MAG-6002
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+abacbc

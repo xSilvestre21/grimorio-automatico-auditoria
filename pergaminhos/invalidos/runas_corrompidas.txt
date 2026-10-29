@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Runa 'x' fora do alfabeto.
+# Motivo(s) esperado(s): RUNA_FORA_DO_ALFABETO
+Decreto: ALQ-5004
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+abxbc

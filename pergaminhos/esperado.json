@@ -1,0 +1,130 @@
+{
+  "descricao": "Gabarito da suíte de integração: motivos de fraude esperados por pergaminho. Lista vazia = autêntico; null = cópia idêntica já auditada (ignorada).",
+  "pergaminhos": {
+    "validos/alq_10492.txt": [],
+    "validos/for_2231.txt": [],
+    "validos/mag_777777.txt": [],
+    "validos/mer_0042.txt": [],
+    "validos/esc_31415.txt": [],
+    "validos/nav_90210.txt": [],
+    "validos/her_1000_assinatura_minima.txt": [],
+    "validos/cav_123456_assinatura_maxima.txt": [],
+    "validos/alq_55555_runas_longas.txt": [],
+    "invalidos/id_minusculas.txt": [
+      "ID_INVALIDO"
+    ],
+    "invalidos/id_duas_letras.txt": [
+      "ID_INVALIDO"
+    ],
+    "invalidos/id_quatro_letras.txt": [
+      "ID_INVALIDO"
+    ],
+    "invalidos/id_tres_digitos.txt": [
+      "ID_INVALIDO"
+    ],
+    "invalidos/id_sete_digitos.txt": [
+      "ID_INVALIDO"
+    ],
+    "invalidos/id_sem_hifen.txt": [
+      "ID_INVALIDO"
+    ],
+    "invalidos/id_digitos_unicode.txt": [
+      "ID_INVALIDO"
+    ],
+    "invalidos/selo_ano_1999.txt": [
+      "SELO_INVALIDO"
+    ],
+    "invalidos/selo_ano_2100.txt": [
+      "SELO_INVALIDO"
+    ],
+    "invalidos/selo_31_de_abril.txt": [
+      "SELO_INVALIDO"
+    ],
+    "invalidos/selo_29_fev_nao_bissexto.txt": [
+      "SELO_INVALIDO"
+    ],
+    "invalidos/selo_formato_iso.txt": [
+      "SELO_INVALIDO"
+    ],
+    "invalidos/selo_sem_zero.txt": [
+      "SELO_INVALIDO"
+    ],
+    "invalidos/assinatura_com_numeros.txt": [
+      "ASSINATURA_INVALIDA"
+    ],
+    "invalidos/assinatura_curta.txt": [
+      "ASSINATURA_INVALIDA"
+    ],
+    "invalidos/assinatura_longa.txt": [
+      "ASSINATURA_INVALIDA"
+    ],
+    "invalidos/assinatura_sem_colchetes.txt": [
+      "ASSINATURA_INVALIDA"
+    ],
+    "invalidos/assinatura_so_espacos.txt": [
+      "ASSINATURA_INVALIDA"
+    ],
+    "invalidos/assinatura_numero_sobrescrito.txt": [
+      "ASSINATURA_INVALIDA"
+    ],
+    "invalidos/runas_a_impar.txt": [
+      "RUNAS_A_IMPAR"
+    ],
+    "invalidos/runas_sem_bc.txt": [
+      "RUNAS_SEM_SUFIXO_BC"
+    ],
+    "invalidos/runas_impar_e_sem_bc.txt": [
+      "RUNAS_A_IMPAR"
+    ],
+    "invalidos/runas_corrompidas.txt": [
+      "RUNA_FORA_DO_ALFABETO"
+    ],
+    "invalidos/runas_maiusculas.txt": [
+      "RUNA_FORA_DO_ALFABETO"
+    ],
+    "invalidos/runas_vazias.txt": [
+      "RUNAS_SEM_SUFIXO_BC"
+    ],
+    "invalidos/runas_com_espaco.txt": [
+      "RUNA_FORA_DO_ALFABETO"
+    ],
+    "invalidos/cabecalho_sem_assinatura.txt": [
+      "CABECALHO_MALFORMADO"
+    ],
+    "invalidos/cabecalho_sem_separador.txt": [
+      "CABECALHO_MALFORMADO"
+    ],
+    "invalidos/cabecalho_campo_desconhecido.txt": [
+      "CABECALHO_MALFORMADO"
+    ],
+    "invalidos/cabecalho_campo_repetido.txt": [
+      "CABECALHO_MALFORMADO"
+    ],
+    "invalidos/falhas_multiplas.txt": [
+      "ID_INVALIDO",
+      "SELO_INVALIDO",
+      "ASSINATURA_INVALIDA"
+    ],
+    "invalidos/selo_e_assinatura.txt": [
+      "SELO_INVALIDO",
+      "ASSINATURA_INVALIDA"
+    ],
+    "lote_misto.txt#1": [],
+    "lote_misto.txt#2": [],
+    "lote_misto.txt#3": [
+      "DECRETO_CLONADO"
+    ],
+    "lote_misto.txt#4": null,
+    "lote_misto.txt#5": [
+      "RUNAS_SEM_SUFIXO_BC"
+    ],
+    "lote_misto.txt#6": [
+      "RUNAS_A_IMPAR"
+    ],
+    "lote_misto.txt#7": [],
+    "lote_misto.txt#8": [
+      "RUNAS_A_IMPAR",
+      "DECRETO_CLONADO"
+    ]
+  }
+}

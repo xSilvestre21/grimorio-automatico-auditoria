@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Data no formato AAAA-MM-DD.
+# Motivo(s) esperado(s): SELO_INVALIDO
+Decreto: MER-3005
+Selo Temporal: 2047-03-15
+Assinatura: [Mestre Alabaster]
+---
+abacbc

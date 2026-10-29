@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Dia e mês sem o zero à esquerda.
+# Motivo(s) esperado(s): SELO_INVALIDO
+Decreto: FOR-3006
+Selo Temporal: 5/3/2047
+Assinatura: [Mestre Alabaster]
+---
+abacbc

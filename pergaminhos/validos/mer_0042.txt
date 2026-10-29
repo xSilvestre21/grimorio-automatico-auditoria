@@ -1,0 +1,7 @@
+# Pergaminho AUTÊNTICO.
+# Identificador com 4 dígitos (mínimo), primeiro dia da Era e assinatura acentuada.
+Decreto: MER-0042
+Selo Temporal: 01/01/2000
+Assinatura: [Lorde Mercador Bastião]
+---
+cccaacbbbc

@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Sigla com 4 letras.
+# Motivo(s) esperado(s): ID_INVALIDO
+Decreto: MAGO-1234
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+abacbc

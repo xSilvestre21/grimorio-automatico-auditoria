@@ -1,0 +1,8 @@
+# Pergaminho FRAUDULENTO (teste).
+# Uma única runa 'a' (quantidade ímpar).
+# Motivo(s) esperado(s): RUNAS_A_IMPAR
+Decreto: FOR-5001
+Selo Temporal: 15/03/2047
+Assinatura: [Mestre Alabaster]
+---
+abc

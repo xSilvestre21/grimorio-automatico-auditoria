@@ -1,0 +1,7 @@
+# Pergaminho AUTÊNTICO.
+# 29/02 em ano bissexto (2048); runas mínimas 'bc' (zero 'a' é par).
+Decreto: FOR-2231
+Selo Temporal: 29/02/2048
+Assinatura: [Ferreira Dourada Thorne]
+---
+bc
